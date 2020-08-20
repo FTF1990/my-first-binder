@@ -1,6 +1,7 @@
 numpy>= 1.15.4 
 pandas
 matplotlib
+conda==4.8.4
 jupyter==1.0.0
 plotly==3.4.1
 pylint==2.1.1
